@@ -4,13 +4,13 @@ plugins {
 }
 
 android {
-    namespace = "com.example.octryn"
+    namespace = "com.gaurav.octryn"
     compileSdk {
         version = release(37)
     }
 
     defaultConfig {
-        applicationId = "com.example.octryn"
+        applicationId = "com.gaurav.octryn"
         minSdk = 26
         targetSdk = 37
         versionCode = 1
